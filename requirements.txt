@@ -1,0 +1,6 @@
+vosk
+pyaudio
+playsound
+json
+edge_tts
+openai
