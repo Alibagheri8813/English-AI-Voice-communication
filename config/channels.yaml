@@ -1,0 +1,4 @@
+# Add YouTube channel IDs to monitor. Example: UC_x5XG1OV2P6uZZ5FSM9Ttw (Google Developers)
+youtubeChannels:
+  - UC_x5XG1OV2P6uZZ5FSM9Ttw
+
