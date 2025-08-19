@@ -1,0 +1,49 @@
+{
+  "phrases": [
+    {
+      "phrase": "no way chat",
+      "start": 0,
+      "end": 60,
+      "score": 7.56,
+      "count": 18
+    },
+    {
+      "phrase": "focus",
+      "start": 0,
+      "end": 60,
+      "score": 7.2,
+      "count": 6
+    },
+    {
+      "phrase": "okay",
+      "start": 0,
+      "end": 60,
+      "score": 3.6,
+      "count": 2
+    }
+  ],
+  "highlights": [],
+  "products": [
+    {
+      "phrase": "no way chat",
+      "category": "t-shirt",
+      "style": "bold typography",
+      "colors": "black/white + 1 accent",
+      "prompt": "Design for t-shirt: phrase 'no way chat'. Style: bold typography. Colors: black/white + 1 accent. Avoid copyrighted logos/likeness. Keep print-friendly vector shapes. High-contrast text composition with clean kerning and a strong accent color."
+    },
+    {
+      "phrase": "focus",
+      "category": "hoodie",
+      "style": "mascot",
+      "colors": "2-3 flat colors",
+      "prompt": "Design for hoodie: phrase 'focus'. Style: mascot. Colors: 2-3 flat colors. Avoid copyrighted logos/likeness. Keep print-friendly vector shapes. Cute mascot or emblem referencing the phrase without logos or likeness."
+    },
+    {
+      "phrase": "okay",
+      "category": "sticker",
+      "style": "minimal",
+      "colors": "white or transparent",
+      "prompt": "Design for sticker: phrase 'okay'. Style: minimal. Colors: white or transparent. Avoid copyrighted logos/likeness. Keep print-friendly vector shapes. Minimal vector sticker with thick outline and drop shadow."
+    }
+  ]
+}
