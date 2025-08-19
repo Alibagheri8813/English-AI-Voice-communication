@@ -6,6 +6,7 @@ import { fetchChannelUploads, filterNewVideosSince } from '../ingest/youtube.js'
 import { getYoutubeTranscript } from '../transcript/youtube.js';
 import { extractTopPhrasesFromTranscriptItems } from '../nlp/phraseDetection.js';
 import { createTextDesignAssets } from '../design/textTemplate.js';
+import { ensurePngExport } from '../design/exporters.js';
 
 export async function runIngestYoutubeJob(channelIds) {
 	const { DATA_DIR } = getPaths();
@@ -25,7 +26,10 @@ export async function runIngestYoutubeJob(channelIds) {
 			} else if (video.title) {
 				phrases = [{ phrase: video.title }];
 			}
-			phrases.forEach((p) => createTextDesignAssets(p.phrase));
+			for (const p of phrases) {
+				const assets = createTextDesignAssets(p.phrase);
+				try { await ensurePngExport(assets.svgPath); } catch {}
+			}
 		}
 
 		state.channels[channelId] = { lastChecked: dayjs().toISOString() };

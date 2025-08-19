@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node src/index.js",
     "ingest": "node src/index.js",
-    "start": "node src/storefront/server.js",
+    "start": "node src/index.js",
     "test": "echo \"No tests yet\" && exit 0"
   },
   "repository": {
@@ -25,6 +25,10 @@
     "bad-words": "^4.0.0",
     "dayjs": "^1.11.13",
     "express": "^5.1.0",
+    "body-parser": "^1.20.3",
+    "stripe": "^16.8.0",
+    "tmi.js": "^1.8.5",
+    "@resvg/resvg-js": "^2.6.2",
     "slugify": "^1.6.6",
     "stopword": "^3.1.5",
     "xml2js": "^0.6.2",
