@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.table import Table
 from tqdm import tqdm
 
-from .youtube_utils import fetch_transcript, load_transcript_from_file, extract_video_id
+from .youtube_utils import fetch_transcript, load_transcript_from_file, extract_video_id, load_cookies
 from .phrase_detector import detect_hot_phrases
 from .highlight_detector import detect_highlights
 from .product_suggester import suggest_products
@@ -33,6 +33,7 @@ def main(
 	out: str = typer.Option("out", help="Output directory"),
 	transcript_file: Optional[str] = typer.Option(None, help="Optional local transcript file (.json/.srt/.vtt)"),
 	language: str = typer.Option("en", help="Stopword language code"),
+	cookies_file: Optional[str] = typer.Option(None, help="Optional cookies file (cookies.txt/JSON or raw 'Cookie:' header) to access restricted transcripts"),
 	window_seconds: int = typer.Option(60, help="Window size for phrase detection"),
 	top_k: int = typer.Option(30, help="Number of top phrases to export"),
 ):
@@ -43,7 +44,10 @@ def main(
 		if transcript_file:
 			transcript = load_transcript_from_file(transcript_file)
 		else:
-			transcript = fetch_transcript(u)
+			# map stopword language to preferred transcript languages (best-effort)
+			lang_pref = [language, f"{language}-US", f"{language}-GB"] if language else None
+			cookies = load_cookies(cookies_file) if cookies_file else None
+			transcript = fetch_transcript(u, languages=lang_pref, cookies=cookies)
 		if not transcript:
 			console.print(f"[red]No transcript available for {video_id}. Skipping.")
 			continue
