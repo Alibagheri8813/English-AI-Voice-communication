@@ -24,15 +24,54 @@ export function filterNewVideosSince(entries, isoTime) {
 	return entries.filter((e) => dayjs(e.publishedAt).isAfter(dayjs(isoTime)));
 }
 
-async function fetchText(url) {
+const DEFAULT_TIMEOUT_MS = 10000;
+const DEFAULT_RETRIES = 3;
+
+async function fetchText(url, options = {}) {
+	const { retries = DEFAULT_RETRIES, timeoutMs = DEFAULT_TIMEOUT_MS } = options;
+	let lastError = null;
+	for (let attempt = 1; attempt <= retries; attempt++) {
+		try {
+			return await requestOnce(url, timeoutMs);
+		} catch (err) {
+			lastError = err;
+			if (attempt === retries) break;
+			const backoffMs = Math.min(2000, 250 * attempt + Math.floor(Math.random() * 150));
+			await delay(backoffMs);
+		}
+	}
+	throw lastError || new Error('Unknown network error');
+}
+
+function requestOnce(url, timeoutMs) {
 	return new Promise((resolve, reject) => {
-		https
-			.get(url, (res) => {
+		const req = https.get(
+			url,
+			{
+				headers: {
+					'User-Agent': 'Mozilla/5.0 (Node.js; +https://github.com) resvg-mvp',
+					Accept: 'application/xml,text/xml;q=0.9,*/*;q=0.8',
+				},
+			},
+			(res) => {
+				if (res.statusCode && res.statusCode >= 400) {
+					res.resume();
+					return reject(new Error(`HTTP ${res.statusCode}`));
+				}
 				let data = '';
 				res.on('data', (chunk) => (data += chunk));
 				res.on('end', () => resolve(data));
-			})
-			.on('error', reject);
+				res.on('error', reject);
+			}
+		);
+		req.on('error', reject);
+		req.setTimeout(timeoutMs, () => {
+			req.destroy(new Error('Request timeout'));
+		});
 	});
+}
+
+function delay(ms) {
+	return new Promise((r) => setTimeout(r, ms));
 }
 

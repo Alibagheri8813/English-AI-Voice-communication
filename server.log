@@ -1,0 +1,8 @@
+nohup: ignoring input
+
+> workspace@1.0.0 dev
+> node src/index.js
+
+Ingested and generated designs from latest videos.
+Storefront running on http://localhost:8787
+Twitch watcher connected
