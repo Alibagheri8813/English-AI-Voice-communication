@@ -1,0 +1,194 @@
+[
+  {
+    "bbox": [
+      345,
+      219,
+      555,
+      267
+    ],
+    "lang": "fa",
+    "original": "سازمان تی پردرش استعددا دجِشان",
+    "english": "The T -Organization of their Antichrist",
+    "confidence": 0.1708895725322666
+  },
+  {
+    "bbox": [
+      332,
+      270,
+      566,
+      303
+    ],
+    "lang": "fa",
+    "original": "دبیرسان تیزهوشان علامه حلی ٦ دوره اول",
+    "english": "Allame Heli 6",
+    "confidence": 0.3402255080508093
+  },
+  {
+    "bbox": [
+      426,
+      296,
+      514,
+      328
+    ],
+    "lang": "fa",
+    "original": "معاونت پایه",
+    "english": "Grade",
+    "confidence": 0.6371919987034211
+  },
+  {
+    "bbox": [
+      443,
+      325,
+      513,
+      351
+    ],
+    "lang": "fa",
+    "original": "سال تحصیلی",
+    "english": "Academic Year",
+    "confidence": 0.43096091648387613
+  },
+  {
+    "bbox": [
+      332,
+      370,
+      564,
+      502
+    ],
+    "lang": "fa",
+    "original": "وح ساس",
+    "english": "Virtue",
+    "confidence": 0.9329088065917618
+  },
+  {
+    "bbox": [
+      504,
+      572,
+      758,
+      610
+    ],
+    "lang": "fa",
+    "original": "دانشآموز فرهيخته: على باقرى",
+    "english": "Educated Student: Ali Bagheri",
+    "confidence": 0.9044726827237793
+  },
+  {
+    "bbox": [
+      103,
+      629,
+      793,
+      681
+    ],
+    "lang": "fa",
+    "original": "بقام ب دانش انموزمی برادتریت اسلامی سائیس افظرت ضداجوی آدیدفرن بادینباوری داباناست وددال یشرفت وتعالی آدمیرابّ",
+    "english": "Baqam Baqami Islamic Bradmottite Knowledge of Sa'ad Dafar Dafrin with dey Nabar Dabanast and Model Advantage and Humanity",
+    "confidence": 0.014139746265642166
+  },
+  {
+    "bbox": [
+      101,
+      685,
+      754,
+      747
+    ],
+    "lang": "fa",
+    "original": "ازابدادات بسرت دلادادم دسردارزماینایاا فوتاول دمودانشآمزانپلیاح بداءوفرنازبکب",
+    "english": "Festivities of Darzadim",
+    "confidence": 0.006850948761050041
+  },
+  {
+    "bbox": [
+      736,
+      696,
+      788,
+      728
+    ],
+    "lang": "fa",
+    "original": "راودارد .",
+    "english": "Roodard.",
+    "confidence": 0.489364882643907
+  },
+  {
+    "bbox": [
+      112,
+      744,
+      764,
+      804
+    ],
+    "lang": "fa",
+    "original": "نسوم نالآمابنیکء مردبدددالمأدالى سرافازیو سرطذیاناح بااتربم مضرمافپزژکرای یکرههاز",
+    "english": "Nasum Nalamabnik Mardan al -Maddal al -Maddali and Matrafi Magicine",
+    "confidence": 0.005894856038672841
+  },
+  {
+    "bbox": [
+      238,
+      806,
+      670,
+      869
+    ],
+    "lang": "fa",
+    "original": "حضرت نليم آرز دمندیم  تاءواروحای طرهان درحلایت وسوتزیری ثاباثده",
+    "english": "Prophet Damman's wish dey.",
+    "confidence": 0.02460972404033366
+  },
+  {
+    "bbox": [
+      378,
+      966,
+      436,
+      1000
+    ],
+    "lang": "fa",
+    "original": "علامه",
+    "english": "Allameh",
+    "confidence": 0.8086745905703739
+  },
+  {
+    "bbox": [
+      513,
+      971,
+      581,
+      999
+    ],
+    "lang": "fa",
+    "original": "مدیرین",
+    "english": "Dey Rein",
+    "confidence": 0.5996720001031334
+  },
+  {
+    "bbox": [
+      382,
+      1002,
+      432,
+      1036
+    ],
+    "lang": "fa",
+    "original": "مدیا",
+    "english": "M dey a",
+    "confidence": 0.6977927976119511
+  },
+  {
+    "bbox": [
+      442,
+      1000,
+      524,
+      1034
+    ],
+    "lang": "fa",
+    "original": "مهران بابا",
+    "english": "Mehr Ann Baba",
+    "confidence": 0.8121337342913929
+  },
+  {
+    "bbox": [
+      384,
+      297,
+      436,
+      327
+    ],
+    "lang": "fa",
+    "original": "هستم",
+    "english": "I'm",
+    "confidence": 0.702807279282895
+  }
+]

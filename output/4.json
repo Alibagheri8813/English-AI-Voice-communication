@@ -1,0 +1,758 @@
+[
+  {
+    "bbox": [
+      195,
+      93,
+      385,
+      121
+    ],
+    "lang": "fa",
+    "original": "نام ونام خانوادكى : على باقرى",
+    "english": "Full name",
+    "confidence": 0.826776744447372
+  },
+  {
+    "bbox": [
+      457,
+      95,
+      541,
+      121
+    ],
+    "lang": "fa",
+    "original": "استان تهران",
+    "english": "Tehran Province",
+    "confidence": 0.6458557160918603
+  },
+  {
+    "bbox": [
+      621,
+      91,
+      767,
+      119
+    ],
+    "lang": "fa",
+    "original": "جمهورى اسلامى آيران",
+    "english": "The Islamic Republic of Iran",
+    "confidence": 0.8064827495595628
+  },
+  {
+    "bbox": [
+      297,
+      121,
+      357,
+      143
+    ],
+    "lang": "fa",
+    "original": "رتبه در",
+    "english": "Rank in",
+    "confidence": 0.3874303849403196
+  },
+  {
+    "bbox": [
+      483,
+      117,
+      531,
+      141
+    ],
+    "lang": "fa",
+    "original": "منطقه",
+    "english": "District",
+    "confidence": 0.47287924821190896
+  },
+  {
+    "bbox": [
+      611,
+      110,
+      778,
+      145
+    ],
+    "lang": "fa",
+    "original": "وزارت آموزش ويرورش",
+    "english": "Ministry of Education",
+    "confidence": 0.9448633230759711
+  },
+  {
+    "bbox": [
+      263,
+      137,
+      317,
+      159
+    ],
+    "lang": "fa",
+    "original": "انفیاط",
+    "english": "Information",
+    "confidence": 0.3357886865403162
+  },
+  {
+    "bbox": [
+      447,
+      135,
+      581,
+      161
+    ],
+    "lang": "fa",
+    "original": "دبيرستان علامه حلى",
+    "english": "Allame Heli 6",
+    "confidence": 0.6323394801526554
+  },
+  {
+    "bbox": [
+      625,
+      135,
+      767,
+      161
+    ],
+    "lang": "fa",
+    "original": "سال تحصيلى ٥٢٠٥٣",
+    "english": "Academic Year 52053",
+    "confidence": 0.7216258229484963
+  },
+  {
+    "bbox": [
+      115,
+      159,
+      145,
+      181
+    ],
+    "lang": "fa",
+    "original": "٢٧",
+    "english": "27",
+    "confidence": 0.998420111848601
+  },
+  {
+    "bbox": [
+      133,
+      151,
+      254,
+      184
+    ],
+    "lang": "fa",
+    "original": "January ٢٤ ٥ ٢",
+    "english": "January 24 5 2",
+    "confidence": 0.7378995853923511
+  },
+  {
+    "bbox": [
+      258,
+      158,
+      309,
+      186
+    ],
+    "lang": "fa",
+    "original": "تاریخ :",
+    "english": "Date:",
+    "confidence": 0.9846096813294274
+  },
+  {
+    "bbox": [
+      650,
+      155,
+      739,
+      183
+    ],
+    "lang": "fa",
+    "original": "پایه تحصیلی",
+    "english": "Grade",
+    "confidence": 0.5907926993512286
+  },
+  {
+    "bbox": [
+      335,
+      181,
+      405,
+      207
+    ],
+    "lang": "fa",
+    "original": "نوبت اول",
+    "english": "The first time",
+    "confidence": 0.4874266283762235
+  },
+  {
+    "bbox": [
+      143,
+      195,
+      215,
+      219
+    ],
+    "lang": "fa",
+    "original": "نمره نهایی",
+    "english": "Final score",
+    "confidence": 0.4645633604573499
+  },
+  {
+    "bbox": [
+      333,
+      207,
+      377,
+      231
+    ],
+    "lang": "fa",
+    "original": "نهایی",
+    "english": "Final",
+    "confidence": 0.729726430296046
+  },
+  {
+    "bbox": [
+      720,
+      204,
+      767,
+      231
+    ],
+    "lang": "fa",
+    "original": "ردیف",
+    "english": "T dey f",
+    "confidence": 0.9309797286987305
+  },
+  {
+    "bbox": [
+      475,
+      227,
+      608,
+      260
+    ],
+    "lang": "fa",
+    "original": "تفكر وسبك زندكى",
+    "english": "Think and spoil Zindaki",
+    "confidence": 0.89726758954003
+  },
+  {
+    "bbox": [
+      493,
+      275,
+      587,
+      301
+    ],
+    "lang": "fa",
+    "original": "برنامه نويسى",
+    "english": "Programming",
+    "confidence": 0.6806461964539563
+  },
+  {
+    "bbox": [
+      511,
+      297,
+      569,
+      319
+    ],
+    "lang": "fa",
+    "original": "هندسه",
+    "english": "Geometry",
+    "confidence": 0.3459236019470681
+  },
+  {
+    "bbox": [
+      519,
+      317,
+      561,
+      343
+    ],
+    "lang": "fa",
+    "original": "خران",
+    "english": "screaming",
+    "confidence": 0.23458717478507926
+  },
+  {
+    "bbox": [
+      482,
+      362,
+      597,
+      391
+    ],
+    "lang": "fa",
+    "original": "پیام حای آسمانی",
+    "english": "The heavenly message",
+    "confidence": 0.48659122817221984
+  },
+  {
+    "bbox": [
+      513,
+      389,
+      565,
+      413
+    ],
+    "lang": "fa",
+    "original": "فبزيک",
+    "english": "Fabzik",
+    "confidence": 0.4052403786679426
+  },
+  {
+    "bbox": [
+      488,
+      411,
+      589,
+      439
+    ],
+    "lang": "fa",
+    "original": "زيست شناسی",
+    "english": "Biology",
+    "confidence": 0.5427732330262635
+  },
+  {
+    "bbox": [
+      488,
+      434,
+      588,
+      466
+    ],
+    "lang": "fa",
+    "original": "زبان انكليسى",
+    "english": "English Language",
+    "confidence": 0.7061516364137179
+  },
+  {
+    "bbox": [
+      523,
+      463,
+      555,
+      487
+    ],
+    "lang": "fa",
+    "original": "املا",
+    "english": "Spelling",
+    "confidence": 0.6584955869307327
+  },
+  {
+    "bbox": [
+      535,
+      489,
+      587,
+      515
+    ],
+    "lang": "fa",
+    "original": "ادبیات",
+    "english": "Literature",
+    "confidence": 0.4186232746719299
+  },
+  {
+    "bbox": [
+      513,
+      513,
+      565,
+      539
+    ],
+    "lang": "fa",
+    "original": "ریافی",
+    "english": "Mathematics",
+    "confidence": 0.824510895575466
+  },
+  {
+    "bbox": [
+      493,
+      536,
+      585,
+      563
+    ],
+    "lang": "fa",
+    "original": "فرهنك وهنر",
+    "english": "Arts & Culture",
+    "confidence": 0.5744713207451546
+  },
+  {
+    "bbox": [
+      480,
+      558,
+      596,
+      590
+    ],
+    "lang": "fa",
+    "original": "مطالعات اجتماعى",
+    "english": "Social Studies",
+    "confidence": 0.718984037169516
+  },
+  {
+    "bbox": [
+      492,
+      585,
+      585,
+      613
+    ],
+    "lang": "fa",
+    "original": "زمين شناسی",
+    "english": "Geology",
+    "confidence": 0.7231772146309036
+  },
+  {
+    "bbox": [
+      492,
+      608,
+      584,
+      666
+    ],
+    "lang": "fa",
+    "original": "کاروو فثاوری",
+    "english": "Everu Fishore",
+    "confidence": 0.3928040147089828
+  },
+  {
+    "bbox": [
+      507,
+      663,
+      567,
+      689
+    ],
+    "lang": "fa",
+    "original": "پژوهش",
+    "english": "Research",
+    "confidence": 0.9707884354525432
+  },
+  {
+    "bbox": [
+      509,
+      685,
+      563,
+      711
+    ],
+    "lang": "fa",
+    "original": "نکارش",
+    "english": "Deficial",
+    "confidence": 0.8769350440394403
+  },
+  {
+    "bbox": [
+      143,
+      711,
+      197,
+      735
+    ],
+    "lang": "fa",
+    "original": "٣٩٨٠٥",
+    "english": "39805",
+    "confidence": 0.9618743668010987
+  },
+  {
+    "bbox": [
+      347,
+      709,
+      385,
+      733
+    ],
+    "lang": "fa",
+    "original": "٣٩٨",
+    "english": "398",
+    "confidence": 0.9995759092238283
+  },
+  {
+    "bbox": [
+      509,
+      715,
+      565,
+      739
+    ],
+    "lang": "fa",
+    "original": "مجموع :",
+    "english": "Total:",
+    "confidence": 0.8169931620346214
+  },
+  {
+    "bbox": [
+      147,
+      739,
+      203,
+      763
+    ],
+    "lang": "fa",
+    "original": "١٩٠٩٥",
+    "english": "19095",
+    "confidence": 0.9749983111178919
+  },
+  {
+    "bbox": [
+      410,
+      806,
+      524,
+      846
+    ],
+    "lang": "fa",
+    "original": "على باقرى",
+    "english": "Ali Bakrai",
+    "confidence": 0.9948578830382441
+  },
+  {
+    "bbox": [
+      756,
+      1058,
+      800,
+      1090
+    ],
+    "lang": "fa",
+    "original": "بار",
+    "english": "Times",
+    "confidence": 0.2678290631993859
+  },
+  {
+    "bbox": [
+      298,
+      1114,
+      334,
+      1152
+    ],
+    "lang": "fa",
+    "original": "ذین",
+    "english": "Inseparable",
+    "confidence": 0.1832670218019305
+  },
+  {
+    "bbox": [
+      564,
+      1116,
+      624,
+      1152
+    ],
+    "lang": "fa",
+    "original": "ون ابی",
+    "english": "Van Abi",
+    "confidence": 0.0677727641005955
+  },
+  {
+    "bbox": [
+      703,
+      1117,
+      731,
+      1153
+    ],
+    "lang": "fa",
+    "original": "ف",
+    "english": "Five",
+    "confidence": 0.804359362623984
+  },
+  {
+    "bbox": [
+      258,
+      116,
+      308,
+      143
+    ],
+    "lang": "fa",
+    "original": "كلاس",
+    "english": "Class",
+    "confidence": 0.8927699327468872
+  },
+  {
+    "bbox": [
+      368,
+      206,
+      407,
+      231
+    ],
+    "lang": "fa",
+    "original": "نمره",
+    "english": "Score",
+    "confidence": 0.4747142791748047
+  },
+  {
+    "bbox": [
+      505,
+      205,
+      576,
+      234
+    ],
+    "lang": "fa",
+    "original": "نام درس",
+    "english": "Course name",
+    "confidence": 0.9789155403079782
+  },
+  {
+    "bbox": [
+      513,
+      253,
+      565,
+      280
+    ],
+    "lang": "fa",
+    "original": "سیمی",
+    "english": "Semi",
+    "confidence": 0.2603802978992462
+  },
+  {
+    "bbox": [
+      488,
+      487,
+      542,
+      514
+    ],
+    "lang": "fa",
+    "original": "فارسى",
+    "english": "Farsi",
+    "confidence": 0.5907054176849255
+  },
+  {
+    "bbox": [
+      241,
+      1107,
+      311,
+      1181
+    ],
+    "lang": "fa",
+    "original": "ٍّ;",
+    "english": "ٍّ;",
+    "confidence": 0.03265514224073224
+  },
+  {
+    "bbox": [
+      391,
+      1107,
+      446,
+      1162
+    ],
+    "lang": "fa",
+    "original": "ادبمات |",
+    "english": "Literature",
+    "confidence": 0.48136188765622495
+  },
+  {
+    "bbox": [
+      419,
+      1104,
+      499,
+      1188
+    ],
+    "lang": "fa",
+    "original": "زبان انکلیسی",
+    "english": "English Language",
+    "confidence": 0.4297732846172561
+  },
+  {
+    "bbox": [
+      199,
+      1105,
+      260,
+      1168
+    ],
+    "lang": "fa",
+    "original": "پروهش",
+    "english": "Research",
+    "confidence": 0.6793038616090055
+  },
+  {
+    "bbox": [
+      232,
+      1107,
+      286,
+      1161
+    ],
+    "lang": "fa",
+    "original": "ورذس",
+    "english": "Apprehension",
+    "confidence": 0.5091853737831116
+  },
+  {
+    "bbox": [
+      333,
+      1108,
+      391,
+      1163
+    ],
+    "lang": "fa",
+    "original": "فرعنک ,",
+    "english": "Pharakni,",
+    "confidence": 0.43414569702449324
+  },
+  {
+    "bbox": [
+      496,
+      1109,
+      551,
+      1161
+    ],
+    "lang": "fa",
+    "original": "فیزبک",
+    "english": "Physics",
+    "confidence": 0.3884117698238399
+  },
+  {
+    "bbox": [
+      368,
+      1111,
+      418,
+      1161
+    ],
+    "lang": "fa",
+    "original": "رىاضی",
+    "english": "Mathematics",
+    "confidence": 0.2079972810149805
+  },
+  {
+    "bbox": [
+      474,
+      1113,
+      524,
+      1159
+    ],
+    "lang": "fa",
+    "original": "رمست ,",
+    "english": "Smest,",
+    "confidence": 0.37387547744995386
+  },
+  {
+    "bbox": [
+      501,
+      1108,
+      580,
+      1184
+    ],
+    "lang": "fa",
+    "original": "پیا م جای آسم",
+    "english": "Pias",
+    "confidence": 0.1367984552421277
+  },
+  {
+    "bbox": [
+      632,
+      1109,
+      685,
+      1159
+    ],
+    "lang": "fa",
+    "original": "برنامه ;",
+    "english": "Program;",
+    "confidence": 0.4462821562467872
+  },
+  {
+    "bbox": [
+      267,
+      1130,
+      315,
+      1183
+    ],
+    "lang": "fa",
+    "original": "٦",
+    "english": "6",
+    "confidence": 0.10139802966073663
+  },
+  {
+    "bbox": [
+      642,
+      1130,
+      720,
+      1209
+    ],
+    "lang": "fa",
+    "original": "ّ",
+    "english": "ّ",
+    "confidence": 0.1450808562554693
+  },
+  {
+    "bbox": [
+      448,
+      1135,
+      497,
+      1187
+    ],
+    "lang": "fa",
+    "original": "أ",
+    "english": "A",
+    "confidence": 0.1354669955767216
+  },
+  {
+    "bbox": [
+      321,
+      1140,
+      364,
+      1183
+    ],
+    "lang": "fa",
+    "original": " وشنر",
+    "english": "Visionar",
+    "confidence": 0.16854674761955032
+  }
+]
