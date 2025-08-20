@@ -15,11 +15,22 @@ export async function runIngestYoutubeJob(channelIds) {
 
 	for (const channelId of channelIds) {
 		const lastChecked = state.channels[channelId]?.lastChecked;
-		const entries = await fetchChannelUploads(channelId);
+		let entries = [];
+		try {
+			entries = await fetchChannelUploads(channelId);
+		} catch (err) {
+			console.error(`Failed to fetch uploads for channel ${channelId}:`, err?.message || err);
+			continue;
+		}
 		const newVideos = filterNewVideosSince(entries, lastChecked);
 
 		for (const video of newVideos) {
-			const transcript = await getYoutubeTranscript(video.videoId);
+			let transcript = [];
+			try {
+				transcript = await getYoutubeTranscript(video.videoId);
+			} catch (err) {
+				transcript = [];
+			}
 			let phrases = [];
 			if (transcript.length > 0) {
 				phrases = extractTopPhrasesFromTranscriptItems(transcript, { maxPhrases: 3 });
@@ -28,7 +39,11 @@ export async function runIngestYoutubeJob(channelIds) {
 			}
 			for (const p of phrases) {
 				const assets = createTextDesignAssets(p.phrase);
-				try { await ensurePngExport(assets.svgPath); } catch {}
+				try {
+					await ensurePngExport(assets.svgPath);
+				} catch (err) {
+					// Non-fatal export failure; continue other items
+				}
 			}
 		}
 
