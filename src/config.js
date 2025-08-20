@@ -24,12 +24,11 @@ export function readChannelsConfig() {
 	const { CONFIG_DIR } = getPaths();
 	const configFilePath = path.join(CONFIG_DIR, 'channels.yaml');
 	if (!fs.existsSync(configFilePath)) {
-		return { youtubeChannels: [], twitchChannels: [] };
+		return { twitchChannels: [] };
 	}
 	const raw = fs.readFileSync(configFilePath, 'utf-8');
 	const parsed = yaml.parse(raw) || {};
 	return {
-		youtubeChannels: Array.isArray(parsed.youtubeChannels) ? parsed.youtubeChannels : [],
 		twitchChannels: Array.isArray(parsed.twitchChannels) ? parsed.twitchChannels : [],
 	};
 }
@@ -47,6 +46,7 @@ export function getEnv() {
 		creatorPercent: Number(process.env.CREATOR_PERCENT || 70),
 		siteUrl: process.env.SITE_URL || process.env.BASE_URL || 'http://localhost:8787',
 		downloadSecret: process.env.DOWNLOAD_SECRET || 'dev-secret',
+		httpProxy: process.env.HTTP_PROXY || '',
+		httpsProxy: process.env.HTTPS_PROXY || '',
 	};
 }
-

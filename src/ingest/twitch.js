@@ -2,6 +2,8 @@ import tmi from 'tmi.js';
 import dayjs from 'dayjs';
 import { createTextDesignAssets } from '../design/textTemplate.js';
 import { ensurePngExport } from '../design/exporters.js';
+import { getEnv } from '../config.js';
+import { HttpsProxyAgent } from 'https-proxy-agent';
 
 // Simple Twitch chat watcher using anonymous connection (no token required)
 // Heuristic heat scoring: message rate + unique senders + repeated ngrams
@@ -12,10 +14,18 @@ export function startTwitchWatcher(channels) {
 		return Promise.resolve();
 	}
 
+	const env = getEnv();
+	const username = String(env.twitchBotUsername || '').trim();
+	const token = String(env.twitchOAuthToken || '').trim();
+	const identity = username && token ? { username, password: token.startsWith('oauth:') ? token : `oauth:${token}` } : undefined;
+	const proxyUrl = process.env.HTTPS_PROXY || process.env.HTTP_PROXY || '';
+	const agent = proxyUrl ? new HttpsProxyAgent(proxyUrl) : undefined;
+
 	const client = new tmi.Client({
 		options: { debug: false },
-		connection: { secure: true, reconnect: true },
+		connection: { secure: true, reconnect: true, ...(agent ? { agent } : {}) },
 		channels: channels.map((c) => (c.startsWith('#') ? c : `#${c}`)),
+		...(identity ? { identity } : {}),
 	});
 
 	const windowSeconds = 10;
@@ -44,14 +54,26 @@ export function startTwitchWatcher(channels) {
 		}
 	});
 
+	client.on('connecting', (addr, port) => {
+		console.log('Twitch watcher connecting:', addr, port);
+	});
 	client.on('connected', (_addr, _port) => {
 		console.log('Twitch watcher connected');
 	});
 	client.on('disconnected', (reason) => {
 		console.log('Twitch watcher disconnected:', reason);
 	});
+	client.on('reconnect', () => {
+		console.log('Twitch watcher reconnecting...');
+	});
+	client.on('error', (err) => {
+		console.error('Twitch watcher error event:', err?.message || err);
+	});
 
-	return client.connect();
+	client.connect().catch((err) => {
+		console.error('Twitch watcher error', err);
+	});
+	return client;
 }
 
 function computeHeatScore(windowMsgs) {
