@@ -9,8 +9,12 @@ async function main() {
 	if (youtubeChannels.length === 0) {
 		console.log('No channels configured yet. Add channel IDs to config/channels.yaml');
 	} else {
-		await runIngestYoutubeJob(youtubeChannels);
-		console.log('Ingested and generated designs from latest videos.');
+		try {
+			await runIngestYoutubeJob(youtubeChannels);
+			console.log('Ingested and generated designs from latest videos.');
+		} catch (err) {
+			console.error('Startup ingest failed (continuing to start server):', err?.message || err);
+		}
 	}
 
 	// Start Twitch watcher and storefront concurrently for 24/7 operation
@@ -24,4 +28,3 @@ main().catch((err) => {
 	console.error(err);
 	process.exit(1);
 });
-
