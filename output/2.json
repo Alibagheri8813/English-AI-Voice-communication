@@ -1,0 +1,746 @@
+[
+  {
+    "bbox": [
+      285,
+      49,
+      357,
+      71
+    ],
+    "lang": "fa",
+    "original": "ناسه كارىامه",
+    "english": "The breakfast",
+    "confidence": 0.23376802616161887
+  },
+  {
+    "bbox": [
+      445,
+      38,
+      624,
+      77
+    ],
+    "lang": "fa",
+    "original": "کارنامه ارزنیبی ترائمی پلبان نوپت |",
+    "english": "Nasout Terry Police Tradition",
+    "confidence": 0.10488739587517323
+  },
+  {
+    "bbox": [
+      235,
+      64,
+      358,
+      97
+    ],
+    "lang": "fa",
+    "original": "ثاربح صدور ١٨٢٥ ١٨١ ١٤٠",
+    "english": "Tradition issued 1825 181 140",
+    "confidence": 0.3781109390559219
+  },
+  {
+    "bbox": [
+      729,
+      65,
+      835,
+      93
+    ],
+    "lang": "fa",
+    "original": "حمدوری اسلامی ابران",
+    "english": "Islamic Hamdouri Abran",
+    "confidence": 0.6438252899900498
+  },
+  {
+    "bbox": [
+      729,
+      89,
+      839,
+      115
+    ],
+    "lang": "fa",
+    "original": "ورارت آموژن و برورس",
+    "english": "Amogenic",
+    "confidence": 0.23389411780695768
+  },
+  {
+    "bbox": [
+      571,
+      101,
+      639,
+      129
+    ],
+    "lang": "fa",
+    "original": "نهران - بهران",
+    "english": "Nemeran - Bahran",
+    "confidence": 0.4234711334553298
+  },
+  {
+    "bbox": [
+      659,
+      103,
+      697,
+      127
+    ],
+    "lang": "fa",
+    "original": "اسمان",
+    "english": "the sky",
+    "confidence": 0.48300198967629626
+  },
+  {
+    "bbox": [
+      289,
+      123,
+      341,
+      149
+    ],
+    "lang": "fa",
+    "original": "_حا وادکی",
+    "english": "_Ha Wadki",
+    "confidence": 0.26023837893668367
+  },
+  {
+    "bbox": [
+      481,
+      121,
+      637,
+      149
+    ],
+    "lang": "fa",
+    "original": "دببرستال علامه علی ٦ ادوره اول ا",
+    "english": "Allame Heli 6",
+    "confidence": 0.22043544915382204
+  },
+  {
+    "bbox": [
+      645,
+      123,
+      697,
+      149
+    ],
+    "lang": "fa",
+    "original": "امورضکاء",
+    "english": "Affairs",
+    "confidence": 0.22220464440104296
+  },
+  {
+    "bbox": [
+      217,
+      145,
+      271,
+      167
+    ],
+    "lang": "fa",
+    "original": "٧٠٢٠٠٢",
+    "english": "702002",
+    "confidence": 0.9964982476502035
+  },
+  {
+    "bbox": [
+      305,
+      147,
+      355,
+      171
+    ],
+    "lang": "fa",
+    "original": "که داض",
+    "english": "That is the case",
+    "confidence": 0.30339462426213487
+  },
+  {
+    "bbox": [
+      539,
+      145,
+      637,
+      171
+    ],
+    "lang": "fa",
+    "original": "دنتم )متوسطه اول(",
+    "english": "Dignity) first high school (",
+    "confidence": 0.3375295790198859
+  },
+  {
+    "bbox": [
+      601,
+      167,
+      639,
+      191
+    ],
+    "lang": "fa",
+    "original": "کلاس",
+    "english": "Class",
+    "confidence": 0.7125452603286543
+  },
+  {
+    "bbox": [
+      77,
+      217,
+      121,
+      241
+    ],
+    "lang": "fa",
+    "original": "مابکی",
+    "english": "Bashaki",
+    "confidence": 0.380413712808842
+  },
+  {
+    "bbox": [
+      221,
+      219,
+      283,
+      241
+    ],
+    "lang": "fa",
+    "original": "رنبه در بایه",
+    "english": "Renbe in Baye",
+    "confidence": 0.24675918107697206
+  },
+  {
+    "bbox": [
+      371,
+      219,
+      427,
+      241
+    ],
+    "lang": "fa",
+    "original": "نمره لهاپی",
+    "english": "Legian score",
+    "confidence": 0.19989236220207196
+  },
+  {
+    "bbox": [
+      438,
+      213,
+      511,
+      241
+    ],
+    "lang": "fa",
+    "original": "بايان ئوبت اول",
+    "english": "Early Reason Bayan",
+    "confidence": 0.24312025517279812
+  },
+  {
+    "bbox": [
+      561,
+      217,
+      677,
+      243
+    ],
+    "lang": "fa",
+    "original": "اررضیامی بايان نوبت اول",
+    "english": "Bias",
+    "confidence": 0.2101758886834212
+  },
+  {
+    "bbox": [
+      741,
+      249,
+      807,
+      277
+    ],
+    "lang": "fa",
+    "original": "امورض فران",
+    "english": "Amor Fran",
+    "confidence": 0.2843150800449227
+  },
+  {
+    "bbox": [
+      731,
+      313,
+      821,
+      337
+    ],
+    "lang": "fa",
+    "original": "نوكر وسک زدکی",
+    "english": "Nokler Vesk Zedaki",
+    "confidence": 0.18979056826279797
+  },
+  {
+    "bbox": [
+      743,
+      439,
+      809,
+      463
+    ],
+    "lang": "fa",
+    "original": "نرمد ومنّر",
+    "english": "Nummy",
+    "confidence": 0.18191530078801774
+  },
+  {
+    "bbox": [
+      735,
+      469,
+      819,
+      493
+    ],
+    "lang": "fa",
+    "original": "مطالما- اجماعی",
+    "english": "Student- consensus",
+    "confidence": 0.5000104355525978
+  },
+  {
+    "bbox": [
+      71,
+      499,
+      107,
+      521
+    ],
+    "lang": "fa",
+    "original": "١٩،٢٢",
+    "english": "19،22",
+    "confidence": 0.8224210824868582
+  },
+  {
+    "bbox": [
+      149,
+      499,
+      189,
+      521
+    ],
+    "lang": "fa",
+    "original": "ذ١٩،٢",
+    "english": "Y 19,2",
+    "confidence": 0.8523806360501669
+  },
+  {
+    "bbox": [
+      734,
+      497,
+      815,
+      529
+    ],
+    "lang": "fa",
+    "original": "پیام های اسمان",
+    "english": "Esman's messages",
+    "confidence": 0.6215113140865265
+  },
+  {
+    "bbox": [
+      69,
+      531,
+      107,
+      551
+    ],
+    "lang": "fa",
+    "original": "١٨،٦٢",
+    "english": "18،62",
+    "confidence": 0.4176359170672743
+  },
+  {
+    "bbox": [
+      149,
+      531,
+      187,
+      551
+    ],
+    "lang": "fa",
+    "original": "١٩،١٠",
+    "english": "19،10",
+    "confidence": 0.8430580725722489
+  },
+  {
+    "bbox": [
+      379,
+      529,
+      419,
+      551
+    ],
+    "lang": "fa",
+    "original": "١٩،٢٥",
+    "english": "19،25",
+    "confidence": 0.8843819052502565
+  },
+  {
+    "bbox": [
+      743,
+      533,
+      807,
+      559
+    ],
+    "lang": "fa",
+    "original": "کار وفتاوری",
+    "english": "Work",
+    "confidence": 0.39248749333499466
+  },
+  {
+    "bbox": [
+      149,
+      563,
+      189,
+      583
+    ],
+    "lang": "fa",
+    "original": "٦٧ ٨ ١",
+    "english": "67 8 1",
+    "confidence": 0.45494867765259606
+  },
+  {
+    "bbox": [
+      377,
+      561,
+      411,
+      583
+    ],
+    "lang": "fa",
+    "original": "ن ا",
+    "english": "Do not this",
+    "confidence": 0.24626076826992244
+  },
+  {
+    "bbox": [
+      73,
+      623,
+      105,
+      645
+    ],
+    "lang": "fa",
+    "original": "٦،٤٢",
+    "english": "6،42",
+    "confidence": 0.5955103039741516
+  },
+  {
+    "bbox": [
+      149,
+      625,
+      187,
+      645
+    ],
+    "lang": "fa",
+    "original": "٩،٢٨ ١",
+    "english": "9،28 1",
+    "confidence": 0.4947293525692253
+  },
+  {
+    "bbox": [
+      69,
+      653,
+      103,
+      677
+    ],
+    "lang": "fa",
+    "original": "١٩،٧٠",
+    "english": "19،70",
+    "confidence": 0.9107577669195527
+  },
+  {
+    "bbox": [
+      377,
+      653,
+      411,
+      675
+    ],
+    "lang": "fa",
+    "original": "٥ ١٩",
+    "english": "5 19",
+    "confidence": 0.8091896772384644
+  },
+  {
+    "bbox": [
+      69,
+      685,
+      105,
+      707
+    ],
+    "lang": "fa",
+    "original": "٢ذ ٩ ١",
+    "english": "2 ذ 9 1",
+    "confidence": 0.2053955959612762
+  },
+  {
+    "bbox": [
+      147,
+      687,
+      187,
+      709
+    ],
+    "lang": "fa",
+    "original": "١٦،٥٢",
+    "english": "16،52",
+    "confidence": 0.3526076222320231
+  },
+  {
+    "bbox": [
+      377,
+      685,
+      417,
+      707
+    ],
+    "lang": "fa",
+    "original": "٧٥ ١٩",
+    "english": "75 19",
+    "confidence": 0.6906776703332957
+  },
+  {
+    "bbox": [
+      69,
+      717,
+      103,
+      739
+    ],
+    "lang": "fa",
+    "original": "٢٠ ١٨",
+    "english": "20 18",
+    "confidence": 0.14040835074108077
+  },
+  {
+    "bbox": [
+      147,
+      719,
+      181,
+      741
+    ],
+    "lang": "fa",
+    "original": "٢ ١٨ ",
+    "english": "2 18",
+    "confidence": 0.6720229260583898
+  },
+  {
+    "bbox": [
+      69,
+      749,
+      107,
+      771
+    ],
+    "lang": "fa",
+    "original": "ذ٠ ١٨",
+    "english": "068",
+    "confidence": 0.39037761258609444
+  },
+  {
+    "bbox": [
+      147,
+      749,
+      187,
+      773
+    ],
+    "lang": "fa",
+    "original": "١٨،٢٥",
+    "english": "18،25",
+    "confidence": 0.36589266736678494
+  },
+  {
+    "bbox": [
+      462,
+      779,
+      515,
+      805
+    ],
+    "lang": "fa",
+    "original": "دارد ئنده",
+    "english": "It is a man",
+    "confidence": 0.37560657459950036
+  },
+  {
+    "bbox": [
+      753,
+      783,
+      793,
+      805
+    ],
+    "lang": "fa",
+    "original": "اانا",
+    "english": "I am",
+    "confidence": 0.3943158686161041
+  },
+  {
+    "bbox": [
+      73,
+      813,
+      107,
+      833
+    ],
+    "lang": "fa",
+    "original": "٢٧ ٦",
+    "english": "27 6",
+    "confidence": 0.6129879355430603
+  },
+  {
+    "bbox": [
+      147,
+      813,
+      185,
+      835
+    ],
+    "lang": "fa",
+    "original": "١٩،٢١",
+    "english": "19،21",
+    "confidence": 0.8143418524185925
+  },
+  {
+    "bbox": [
+      463,
+      813,
+      515,
+      837
+    ],
+    "lang": "fa",
+    "original": "دارد نشده",
+    "english": "Not",
+    "confidence": 0.37463511010301587
+  },
+  {
+    "bbox": [
+      244,
+      861,
+      305,
+      889
+    ],
+    "lang": "fa",
+    "original": "جهانکبری",
+    "english": "Jahangbari",
+    "confidence": 0.31895198775979633
+  },
+  {
+    "bbox": [
+      529,
+      865,
+      591,
+      889
+    ],
+    "lang": "fa",
+    "original": "رنبه در بابه",
+    "english": "Ranbe in Baba",
+    "confidence": 0.6423006937178539
+  },
+  {
+    "bbox": [
+      657,
+      865,
+      727,
+      889
+    ],
+    "lang": "fa",
+    "original": "رنبه در کلاس",
+    "english": "Class",
+    "confidence": 0.4539725499803214
+  },
+  {
+    "bbox": [
+      787,
+      865,
+      839,
+      889
+    ],
+    "lang": "fa",
+    "original": "معدل کل",
+    "english": "Overall GPA",
+    "confidence": 0.4647232384393541
+  },
+  {
+    "bbox": [
+      791,
+      897,
+      831,
+      919
+    ],
+    "lang": "fa",
+    "original": "١٦،٧٦",
+    "english": "16،76",
+    "confidence": 0.30070217524219606
+  },
+  {
+    "bbox": [
+      522,
+      986,
+      578,
+      1020
+    ],
+    "lang": "fa",
+    "original": "١٢٢",
+    "english": "122",
+    "confidence": 0.9696249929836355
+  },
+  {
+    "bbox": [
+      280,
+      143,
+      316,
+      171
+    ],
+    "lang": "fa",
+    "original": "اموزا",
+    "english": "Education",
+    "confidence": 0.4158530262531605
+  },
+  {
+    "bbox": [
+      318,
+      164,
+      356,
+      194
+    ],
+    "lang": "fa",
+    "original": "تارىح",
+    "english": "Tarh",
+    "confidence": 0.4526031880693218
+  },
+  {
+    "bbox": [
+      654,
+      163,
+      699,
+      195
+    ],
+    "lang": "fa",
+    "original": "کااس",
+    "english": "Kas",
+    "confidence": 0.4228343963623047
+  },
+  {
+    "bbox": [
+      130,
+      214,
+      173,
+      243
+    ],
+    "lang": "fa",
+    "original": "کذسی",
+    "english": "Kazsets",
+    "confidence": 0.2481648176908493
+  },
+  {
+    "bbox": [
+      161,
+      215,
+      209,
+      241
+    ],
+    "lang": "fa",
+    "original": "ماک",
+    "english": "Mac",
+    "confidence": 0.5853901837600534
+  },
+  {
+    "bbox": [
+      289,
+      216,
+      328,
+      243
+    ],
+    "lang": "fa",
+    "original": "کذس",
+    "english": "Czens",
+    "confidence": 0.12640459835529327
+  },
+  {
+    "bbox": [
+      749,
+      219,
+      799,
+      247
+    ],
+    "lang": "fa",
+    "original": "ام درس",
+    "english": "Umm lesson",
+    "confidence": 0.8261439099044712
+  },
+  {
+    "bbox": [
+      413,
+      864,
+      451,
+      887
+    ],
+    "lang": "fa",
+    "original": "کنند",
+    "english": "Do",
+    "confidence": 0.28480949997901917
+  }
+]

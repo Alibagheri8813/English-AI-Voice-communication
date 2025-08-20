@@ -1,0 +1,434 @@
+[
+  {
+    "bbox": [
+      493,
+      43,
+      603,
+      69
+    ],
+    "lang": "fa",
+    "original": "امنحانات نویت اول",
+    "english": "امنحانات نویت اول",
+    "confidence": 0.21509742412770264
+  },
+  {
+    "bbox": [
+      251,
+      65,
+      377,
+      91
+    ],
+    "lang": "fa",
+    "original": "نارن مد!ر ٢٢ ١١ ١٤٠٣",
+    "english": "Zone's! R 22 22 1103",
+    "confidence": 0.14849381826146726
+  },
+  {
+    "bbox": [
+      767,
+      69,
+      877,
+      95
+    ],
+    "lang": "fa",
+    "original": "جمبوری اسلامی ابران",
+    "english": "Islamic Jambouri Abran",
+    "confidence": 0.6162425414438031
+  },
+  {
+    "bbox": [
+      767,
+      97,
+      809,
+      117
+    ],
+    "lang": "fa",
+    "original": "١٨;٣",
+    "english": "18;3",
+    "confidence": 0.07680172473192215
+  },
+  {
+    "bbox": [
+      826,
+      89,
+      883,
+      118
+    ],
+    "lang": "fa",
+    "original": "ورارت آمدِ",
+    "english": "Vararat",
+    "confidence": 0.4397340840396706
+  },
+  {
+    "bbox": [
+      587,
+      105,
+      625,
+      129
+    ],
+    "lang": "fa",
+    "original": "تببرر",
+    "english": "Justify",
+    "confidence": 0.10194424295641717
+  },
+  {
+    "bbox": [
+      625,
+      107,
+      663,
+      129
+    ],
+    "lang": "fa",
+    "original": "نرن",
+    "english": "Naren",
+    "confidence": 0.7361875570282652
+  },
+  {
+    "bbox": [
+      679,
+      105,
+      719,
+      129
+    ],
+    "lang": "fa",
+    "original": "استان",
+    "english": "Province",
+    "confidence": 0.5383159017265934
+  },
+  {
+    "bbox": [
+      267,
+      125,
+      305,
+      149
+    ],
+    "lang": "fa",
+    "original": "باغرف",
+    "english": "Chapters",
+    "confidence": 0.13898431694164257
+  },
+  {
+    "bbox": [
+      305,
+      123,
+      359,
+      149
+    ],
+    "lang": "fa",
+    "original": "عاتب دکی",
+    "english": "Aatbaki",
+    "confidence": 0.20276479748142312
+  },
+  {
+    "bbox": [
+      525,
+      125,
+      669,
+      151
+    ],
+    "lang": "fa",
+    "original": "دبرسنان علامه حمیء اپوا",
+    "english": "Allameh Homi Apova",
+    "confidence": 0.44402993956849224
+  },
+  {
+    "bbox": [
+      83,
+      223,
+      159,
+      247
+    ],
+    "lang": "fa",
+    "original": "میانکبن  بابه",
+    "english": "Bpah",
+    "confidence": 0.2828320541649939
+  },
+  {
+    "bbox": [
+      211,
+      225,
+      293,
+      249
+    ],
+    "lang": "fa",
+    "original": "٠باکین الاء",
+    "english": "0 Bakin Ala",
+    "confidence": 0.19879257206546383
+  },
+  {
+    "bbox": [
+      829,
+      259,
+      873,
+      285
+    ],
+    "lang": "fa",
+    "original": "آمدکی",
+    "english": "Disagreement",
+    "confidence": 0.6331084932532702
+  },
+  {
+    "bbox": [
+      803,
+      289,
+      869,
+      317
+    ],
+    "lang": "fa",
+    "original": "مرر فرا",
+    "english": "Pass",
+    "confidence": 0.3029374438770473
+  },
+  {
+    "bbox": [
+      699,
+      419,
+      741,
+      441
+    ],
+    "lang": "fa",
+    "original": "٢٤ ،١",
+    "english": "24 ،1",
+    "confidence": 0.31225391507683287
+  },
+  {
+    "bbox": [
+      803,
+      453,
+      873,
+      477
+    ],
+    "lang": "fa",
+    "original": "نردی : مر",
+    "english": "NRD Dey: Bitter",
+    "confidence": 0.16475083206649965
+  },
+  {
+    "bbox": [
+      115,
+      483,
+      157,
+      503
+    ],
+    "lang": "fa",
+    "original": "ذذ ٩ا",
+    "english": "This 9 a",
+    "confidence": 0.15774788432207237
+  },
+  {
+    "bbox": [
+      251,
+      481,
+      291,
+      503
+    ],
+    "lang": "fa",
+    "original": "٧٤ ١٩",
+    "english": "74 19",
+    "confidence": 0.2782080368593638
+  },
+  {
+    "bbox": [
+      785,
+      487,
+      873,
+      511
+    ],
+    "lang": "fa",
+    "original": "معمالمان حنمام",
+    "english": "Landmuns Hanam",
+    "confidence": 0.24952534233286028
+  },
+  {
+    "bbox": [
+      115,
+      515,
+      157,
+      535
+    ],
+    "lang": "fa",
+    "original": "٧ ٦ ١٦",
+    "english": "7 6 16",
+    "confidence": 0.5104226054625269
+  },
+  {
+    "bbox": [
+      249,
+      515,
+      291,
+      535
+    ],
+    "lang": "fa",
+    "original": "٢٤ ١٦",
+    "english": "24 16",
+    "confidence": 0.30820733837728415
+  },
+  {
+    "bbox": [
+      573,
+      517,
+      609,
+      539
+    ],
+    "lang": "fa",
+    "original": "١٩،٥",
+    "english": "19،5",
+    "confidence": 0.9294143915176392
+  },
+  {
+    "bbox": [
+      115,
+      547,
+      157,
+      569
+    ],
+    "lang": "fa",
+    "original": "٤٠ ١٨",
+    "english": "40 18",
+    "confidence": 0.2436234651201481
+  },
+  {
+    "bbox": [
+      579,
+      551,
+      611,
+      571
+    ],
+    "lang": "fa",
+    "original": "٥٠ ٩",
+    "english": "50 9",
+    "confidence": 0.5486649608870559
+  },
+  {
+    "bbox": [
+      805,
+      553,
+      849,
+      575
+    ],
+    "lang": "fa",
+    "original": "-:یق",
+    "english": "-: yak",
+    "confidence": 0.1933344453573227
+  },
+  {
+    "bbox": [
+      255,
+      645,
+      289,
+      667
+    ],
+    "lang": "fa",
+    "original": "٤٢ ٦",
+    "english": "42 6",
+    "confidence": 0.4234534303865894
+  },
+  {
+    "bbox": [
+      245,
+      677,
+      289,
+      699
+    ],
+    "lang": "fa",
+    "original": "١٢ ١٦",
+    "english": "12 16",
+    "confidence": 0.558947346526053
+  },
+  {
+    "bbox": [
+      247,
+      711,
+      289,
+      733
+    ],
+    "lang": "fa",
+    "original": "٦٢ ١٩",
+    "english": "62 19",
+    "confidence": 0.8907676127638985
+  },
+  {
+    "bbox": [
+      249,
+      745,
+      289,
+      767
+    ],
+    "lang": "fa",
+    "original": "٨٦ ١٨",
+    "english": "86 18",
+    "confidence": 0.2860050636239553
+  },
+  {
+    "bbox": [
+      245,
+      777,
+      287,
+      799
+    ],
+    "lang": "fa",
+    "original": "١٩٨٠",
+    "english": "1980",
+    "confidence": 0.8675570487976074
+  },
+  {
+    "bbox": [
+      115,
+      811,
+      155,
+      833
+    ],
+    "lang": "fa",
+    "original": "٢_ ١٤",
+    "english": "2_ 14",
+    "confidence": 0.3385355653474496
+  },
+  {
+    "bbox": [
+      245,
+      811,
+      289,
+      833
+    ],
+    "lang": "fa",
+    "original": "٦٤ ١٤",
+    "english": "64 14",
+    "confidence": 0.3209957327893455
+  },
+  {
+    "bbox": [
+      197,
+      899,
+      285,
+      923
+    ],
+    "lang": "fa",
+    "original": "نام مسنوا ; مما",
+    "english": "Sleep elderly; In",
+    "confidence": 0.26936189549747397
+  },
+  {
+    "bbox": [
+      359,
+      899,
+      403,
+      921
+    ],
+    "lang": "fa",
+    "original": "انصاءا",
+    "english": "In line with",
+    "confidence": 0.13308718472951922
+  },
+  {
+    "bbox": [
+      489,
+      1119,
+      635,
+      1169
+    ],
+    "lang": "fa",
+    "original": "ان بانا مجمدیٰ",
+    "english": "That Bana is a dey",
+    "confidence": 0.2169604586418466
+  }
+]

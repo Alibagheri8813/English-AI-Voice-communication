@@ -1,0 +1,254 @@
+[
+  {
+    "bbox": [
+      430,
+      84,
+      516,
+      118
+    ],
+    "lang": "fa",
+    "original": "باسماتعالى",
+    "english": "Supreme",
+    "confidence": 0.9626227846044504
+  },
+  {
+    "bbox": [
+      348,
+      110,
+      590,
+      148
+    ],
+    "lang": "fa",
+    "original": "العلم يرشدك والعمل يبلغ بك الغاية",
+    "english": "Science guides you and the work informs you of the goal",
+    "confidence": 0.6744169235721923
+  },
+  {
+    "bbox": [
+      266,
+      148,
+      474,
+      183
+    ],
+    "lang": "fa",
+    "original": "عمل تورابه مقصد مى رسائد",
+    "english": "Traditional action",
+    "confidence": 0.75045360718221
+  },
+  {
+    "bbox": [
+      480,
+      150,
+      680,
+      184
+    ],
+    "lang": "fa",
+    "original": "دانش تو را راهنمایی می کند",
+    "english": "Knowledge guides you.",
+    "confidence": 0.5870495264520822
+  },
+  {
+    "bbox": [
+      407,
+      183,
+      530,
+      220
+    ],
+    "lang": "fa",
+    "original": "حضرت على)ع(",
+    "english": "I attended (p)",
+    "confidence": 0.587764043283246
+  },
+  {
+    "bbox": [
+      412,
+      260,
+      486,
+      298
+    ],
+    "lang": "fa",
+    "original": "سیاس",
+    "english": "Politics",
+    "confidence": 0.7907068133354187
+  },
+  {
+    "bbox": [
+      392,
+      348,
+      444,
+      388
+    ],
+    "lang": "fa",
+    "original": "علء",
+    "english": "Ali",
+    "confidence": 0.42331546545028687
+  },
+  {
+    "bbox": [
+      421,
+      333,
+      790,
+      401
+    ],
+    "lang": "fa",
+    "original": "جاب آقای حل بافری دانرآ وزعزز وبیرمان دورواول طلام ا",
+    "english": "Mr Mr Solution Danner Danner and Durravol Talal",
+    "confidence": 0.07552892997972767
+  },
+  {
+    "bbox": [
+      154,
+      404,
+      789,
+      469
+    ],
+    "lang": "fa",
+    "original": "ابّام . دانسُ ادزی  برادتریت اسلای اسک بافرت خداجوی آدی دقّرن بادنباوری دابان است ددد ال",
+    "english": "Abam. Dance of Advance Bradother Sli Skart Bazekart DEY DEY BONE BONE DUBABAND",
+    "confidence": 0.023255867156232256
+  },
+  {
+    "bbox": [
+      592,
+      476,
+      785,
+      528
+    ],
+    "lang": "fa",
+    "original": "یُزت ونمال آدیرا ر براددارده",
+    "english": "He has made dey",
+    "confidence": 0.06835356302583027
+  },
+  {
+    "bbox": [
+      154,
+      523,
+      791,
+      594
+    ],
+    "lang": "fa",
+    "original": "وفت ثادمعلی مفذایدسینددر جنواراوجان وارزیدسال تنحصسیل٠ا ٢وانویغش کسرن لموتریت",
+    "english": "Wafat Saadal Ali Deficit Sandardar Janarajan Warzid Tanasil",
+    "confidence": 0.006360645274951325
+  },
+  {
+    "bbox": [
+      545,
+      605,
+      722,
+      663
+    ],
+    "lang": "fa",
+    "original": "قلای باوذ ومادم ثات ,",
+    "english": "Sutta'at, and Samat,",
+    "confidence": 0.12152055813539385
+  },
+  {
+    "bbox": [
+      153,
+      663,
+      563,
+      721
+    ],
+    "lang": "fa",
+    "original": "مازمفذای دموربرنادویی نالآدۀایدۀ ان موففیترا ثناتیرک",
+    "english": "Mamazafi Damar Barnadavi Adhida Edid",
+    "confidence": 0.0742700814009592
+  },
+  {
+    "bbox": [
+      538,
+      661,
+      796,
+      734
+    ],
+    "lang": "fa",
+    "original": "بذکازم باخوذن خان ب کسبدنب ",
+    "english": "Bazakazam Bakhzan Khan B.",
+    "confidence": 0.04177682875686113
+  },
+  {
+    "bbox": [
+      207,
+      732,
+      790,
+      795
+    ],
+    "lang": "fa",
+    "original": "عرض مینسم بت دالاد تلاسش ارزشندانرااجمانسیم وتوفی ردزافدنتان رازحدای سنان سنأات داریم ن",
+    "english": "Width of the Idad Minism of the Sunnah and the Sunni Sunni Sunnah.",
+    "confidence": 0.017166129765412836
+  },
+  {
+    "bbox": [
+      156,
+      800,
+      792,
+      856
+    ],
+    "lang": "fa",
+    "original": "امبداست اارمی خدادندمتعال دتوهات حضرت دلیعصراج ادپیروی ارفراسن اامن القلاب حضرت امام حمینی ارواداام",
+    "english": "God forbid, God forbid the Prophet Imam Human al -Mamidi Erdamam.",
+    "confidence": 0.03898074022340686
+  },
+  {
+    "bbox": [
+      173,
+      861,
+      794,
+      920
+    ],
+    "lang": "fa",
+    "original": "نامنای ا یفا العالیادداستن برام ریزی دفی اامافمتقان دمسیریشرفت کثورعززمان ایران اسلامیکام برداریده",
+    "english": "Naea al -A'aa al -al -al -uld al -al -uld al -uld al -uld al -ulifah has elaborated in the wake of the dirt of Iran.",
+    "confidence": 0.013357398448196982
+  },
+  {
+    "bbox": [
+      270,
+      960,
+      362,
+      996
+    ],
+    "lang": "fa",
+    "original": "نا فزاند نالدی",
+    "english": "DEY DEY",
+    "confidence": 0.12447755140323088
+  },
+  {
+    "bbox": [
+      241,
+      1010,
+      344,
+      1050
+    ],
+    "lang": "fa",
+    "original": "دا زانرن",
+    "english": "This gonna",
+    "confidence": 0.15788009471176911
+  },
+  {
+    "bbox": [
+      473,
+      257,
+      534,
+      306
+    ],
+    "lang": "fa",
+    "original": "لوح",
+    "english": "Tablet",
+    "confidence": 0.9985028511462432
+  },
+  {
+    "bbox": [
+      695,
+      593,
+      795,
+      660
+    ],
+    "lang": "fa",
+    "original": "توذنان ونثمانکر ",
+    "english": "Sozanan Vinasmankar",
+    "confidence": 0.11440356577240708
+  }
+]
